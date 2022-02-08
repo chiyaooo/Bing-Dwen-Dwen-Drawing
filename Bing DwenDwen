@@ -377,7 +377,7 @@ import turtle
 
 	turtle.pencolor("black")
 	turtle.goto(-16, -160)
-	turtle.write("Yao's冰墩墩", font=('Times New Roman', 12))
+	turtle.write("Yao's冰墩墩", font=('Times New Roman', 14))
 	turtle.hideturtle()
 	
 
