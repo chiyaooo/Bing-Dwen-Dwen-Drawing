@@ -1,7 +1,7 @@
 import turtle
 	
 
-	turtle.title('Yao’s Personal Bing Dwen Dwen')
+	turtle.title('Yao’s Personal 冰墩墩')
 	
 
 	turtle.speed(100)  
@@ -283,7 +283,7 @@ import turtle
 	turtle.penup()
 	turtle.goto(-135, 120)
 	turtle.pensize(5)
-	turtle.pencolor("cyan")
+	turtle.pencolor("indian red")
 	turtle.pendown()
 	turtle.setheading(60)
 	turtle.circle(-165, 150)
@@ -346,7 +346,7 @@ import turtle
 	turtle.end_fill()
 	
 
-	# 五环
+	# logo
 	turtle.penup()
 	turtle.goto(-5, -170)
 	turtle.pendown()
@@ -377,7 +377,7 @@ import turtle
 
 	turtle.pencolor("black")
 	turtle.goto(-16, -160)
-	turtle.write("Yao's Bing DwenDwen", font=('Arial', 10, 'bold italic'))
+	turtle.write("Yao's冰墩墩", font=('Arial', 10, 'bold italic'))
 	turtle.hideturtle()
 	
 
